@@ -3,7 +3,7 @@ import readline from 'readline-sync';
 import fs from 'fs';
 import chalk from 'chalk';
 import cfonts from 'cfonts';
-    cfonts.say('Peter Tran', {
+    cfonts.say('ggoku', {
       font: 'block',
       align: 'center',
       colors: ['#adc241', '#fefda1'],
@@ -97,3 +97,4 @@ const deleteMessage = async (channelId, messageId, token) => {
         }
     }
 })();
+
