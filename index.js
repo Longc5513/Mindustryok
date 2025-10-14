@@ -97,4 +97,5 @@ const deleteMessage = async (channelId, messageId, token) => {
         }
     }
 })();
+  } catch (error) {}  } catch (error) {}
 
