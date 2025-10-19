@@ -84,7 +84,7 @@ const deleteMessage = async (channelId, messageId, token) => {
         }
         await new Promise(resolve => setTimeout(resolve, waktuSetelahHapus));
     } catch (error) {}
-};
+};      align: 'center',
 
 (async () => {
     while (true) {
@@ -98,5 +98,6 @@ const deleteMessage = async (channelId, messageId, token) => {
     }
 })();
   } catch (error) {}  } catch (error) {}
+
 
 
