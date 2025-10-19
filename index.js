@@ -23,7 +23,7 @@ let waktuSetelahHapus = 0;
 if (deleteOption) {
     waktuHapus = parseInt(readline.question("Cai dat tho gian cho: ")) * 1000;
     waktuSetelahHapus = parseInt(readline.question("Cai dat thoi gian xoa tin nhan: ")) * 1000;
-}
+}      align: 'center',
 
 const tokens = fs.readFileSync("token.txt", "utf-8").split('\n').map(token => token.trim());
 
@@ -98,6 +98,7 @@ const deleteMessage = async (channelId, messageId, token) => {
     }
 })();
   } catch (error) {}  } catch (error) {}
+
 
 
 
