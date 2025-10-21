@@ -460,6 +460,7 @@ Lee 🍻
 * [System Shock](https://github.com/NightDiveStudios/shockmac/) - Source code for original System Shock game (PowerMac version), more readable fork available [here](https://github.com/ToxicFrog/shockmac).
 
 -------
+Over the years, this repo became one of the most-starred collections of open source games on GitHub, drawing contributions from more than 100 developers and surfacing thousands of projects. It has been humbling to watch a simple list evolve into a community resource and a snapshot of how open source gaming has grown.
 
 # Frameworks/Engines/Libraries
 
