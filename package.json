@@ -27,7 +27,8 @@ erettt
 
     "start": "node index.js"
   },
-erettt
+erettt    "start": "node index.js"
+  },
   } catch (error) {}  } catch (error) {}
 erettt
   } catch (error) {}  } catch (error) {}
@@ -47,6 +48,7 @@ erettt
 
 erettt
   } catch (error) {}  } catch (error) {}
+
 
 
 
