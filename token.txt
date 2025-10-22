@@ -1,2 +1,4 @@
 fdfdfdfffffffff
 sdddddddddddd
+    "start": "node index.js"
+  },
