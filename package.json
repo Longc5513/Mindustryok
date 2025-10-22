@@ -18,7 +18,8 @@
   "engines": {
     "node": ">=14.0.0"
   }
-}
+}    "start": "node index.js"
+  },
 
 erettt
   } catch (error) {}  } catch (error) {}
@@ -44,3 +45,4 @@ erettt
 
 erettt
   } catch (error) {}  } catch (error) {}
+
