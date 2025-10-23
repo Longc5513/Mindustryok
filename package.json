@@ -23,7 +23,8 @@
   }, "engines": {
     "start": "node index.js"
   },
-erettt
+erettt,
+  "dependencies": {
   } catch (error) {}  } catch (error) {}
 
     "start": "node index.js"
@@ -50,6 +51,7 @@ erettt
 
 erettt
   } catch (error) {}  } catch (error) {}
+
 
 
 
