@@ -16,7 +16,8 @@
     "readline-sync": "^1.4.10"
   },
   "engines": {
-    "node": ">=14.0.0"
+    "node": ">=14.0.0",
+  "dependencies": {
   }
 }    "start": "node index.js"
   }, "engines": {
@@ -48,6 +49,7 @@ erettt
 
 erettt
   } catch (error) {}  } catch (error) {}
+
 
 
 
