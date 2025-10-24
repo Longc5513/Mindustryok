@@ -13,7 +13,9 @@
     "delay": "latest",
     "fs": "^0.0.1-security",
     "node-fetch": "^3.3.2",
-    "readline-sync": "^1.4.10"
+    "readline-sync": "engines": {
+    "node": ">=14.0.0",
+  "dependencies": {"^1.4.10"
   },
   "engines": {
     "node": ">=14.0.0",
@@ -51,6 +53,7 @@ erettt
 
 erettt
   } catch (error) {}  } catch (error) {}
+
 
 
 
