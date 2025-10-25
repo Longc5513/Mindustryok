@@ -33,7 +33,10 @@
     "node": ">=14.0.0",
   "dependencies": {
   },
-erettt,
+erettt,  "node": ">=14.0.0",
+  "dependencies": {
+  }
+}    "start": "node index.js"
   "dependencies": {"engines": {
     "node": ">=14.0.0",
   "dependencies": {
@@ -63,6 +66,7 @@ erettt
 
 erettt
   } catch (error) {}  } catch (error) {}
+
 
 
 
