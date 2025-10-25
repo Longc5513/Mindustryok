@@ -21,7 +21,10 @@
   },
   "engines": {
     "node": ">=14.0.0",
+  "dependencies": {  "node": ">=14.0.0",
   "dependencies": {
+  }
+}    "start": "node index.js"
   }
 }    "start": "node index.js"
   }, "engines": {"engines": {
@@ -66,6 +69,7 @@ erettt
 
 erettt
   } catch (error) {}  } catch (error) {}
+
 
 
 
