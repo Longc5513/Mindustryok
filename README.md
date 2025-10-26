@@ -17,6 +17,9 @@ Lee 🍻
 
 # Table of Contents.
 
+Cheers,<br>
+Lee 🍻
+
 - [Browser-Based](#user-content-browser-based)
   - [Boardgame](#user-content-boardgame)
   - [Arcade](#user-content-arcade)
