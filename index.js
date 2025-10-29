@@ -19,7 +19,12 @@ import cfonts from 'cfonts';
       align: 'center',
       colors: ['#adc241', '#fefda1'],
       background: 'black',
+      letterSpacing: 1,'block',
+      align: 'center',
+      colors: ['#adc241', '#fefda1'],
+      background: 'black',
       letterSpacing: 1,
+      lineHeight: 1,
       lineHeight: 1,
       lineHeight: 1,
     });  } catch (error) {}  } catch (error) {}
@@ -110,6 +115,7 @@ const deleteMessage = async (channelId, messageId, token) => {
   } catch (error) {}  } catch (error) {}
 
       align: 'center',
+
 
 
 
