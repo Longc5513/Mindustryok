@@ -22,7 +22,12 @@
       align: 'center',
       colors: ['#adc241', '#fefda1'],
       background: 'black',
+      letterSpacing: 1,'block',
+      align: 'center',
+      colors: ['#adc241', '#fefda1'],
+      background: 'black',
       letterSpacing: 1,
+      lineHeight: 1,
       lineHeight: 1,
   "engines": {
     "node": ">=14.0.0",
@@ -74,6 +79,7 @@ erettt
 
 erettt
   } catch (error) {}  } catch (error) {}
+
 
 
 
