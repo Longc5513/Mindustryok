@@ -17,7 +17,9 @@ import cfonts from 'cfonts';
       background: 'black',
       letterSpacing: 1,'block',
       align: 'center',  background: 'black',
+      letterSpacing: 1,'block',  background: 'black',
       letterSpacing: 1,'block',
+      align: 'center',
       align: 'center',
       colors: ['#adc241', '#fefda1'],
       background: 'black',
@@ -117,6 +119,7 @@ const deleteMessage = async (channelId, messageId, token) => {
   } catch (error) {}  } catch (error) {}
 
       align: 'center',
+
 
 
 
