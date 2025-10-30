@@ -10,7 +10,9 @@ sdddddddddddd
   },
 
     "start": "node index.js"
-  },
+  },  background: 'black',
+      letterSpacing: 1,'block',
+      align: 'center',
 
     "start": "node index.js"
   },
@@ -35,3 +37,4 @@ sdddddddddddd
 "engines": {
     "node": ">=14.0.0",
   "dependencies": {
+
