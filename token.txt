@@ -8,6 +8,9 @@ sdddddddddddd
 
     "start": "node index.js"
   },
+    "start": "node index.js"
+  },  background: 'black',
+      letterSpacing: 1,'block',
 
     "start": "node index.js"
   },  background: 'black',
@@ -37,4 +40,5 @@ sdddddddddddd
 "engines": {
     "node": ">=14.0.0",
   "dependencies": {
+
 
