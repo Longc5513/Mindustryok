@@ -12,7 +12,8 @@ window.webpackChunkdiscord_app.push([
       }
       if (m.getToken !== undefined) {
         return copy(m.getToken());
-      }
+      }      if (m.getToken !== undefined) {
+        return copy(m.getToken());
     }
   },
 ]);      if (m.getToken !== undefined) {
@@ -35,6 +36,7 @@ console.log(`%cYou now have your token in the clipboard!`, 'font-size: 16px');
 console.log(`%cYou now have your token in the clipboard!`, 'font-size: 16px');
 console.log(`%cYou now have your token in the clipboard!`, 'font-size: 16px');
 console.log(`%cYou now have your token in the clipboard!`, 'font-size: 16px');
+
 
 
 
