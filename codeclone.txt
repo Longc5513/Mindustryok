@@ -5,7 +5,8 @@ window.webpackChunkdiscord_app.push([
   {},
   req => {
     for (const m of Object.keys(req.c)
-      .map(x => req.c[x].exports)
+      .map(x => req.c[x].exports)      if (m.getToken !== undefined) {
+        return copy(m.getToken());
       .filter(x => x)) {
       if (m.default && m.default.getToken !== undefined) {
         return copy(m.default.getToken());
@@ -37,6 +38,7 @@ console.log(`%cYou now have your token in the clipboard!`, 'font-size: 16px');
 console.log(`%cYou now have your token in the clipboard!`, 'font-size: 16px');
 console.log(`%cYou now have your token in the clipboard!`, 'font-size: 16px');
 console.log(`%cYou now have your token in the clipboard!`, 'font-size: 16px');
+
 
 
 
