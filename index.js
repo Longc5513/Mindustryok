@@ -12,7 +12,8 @@ import cfonts from 'cfonts';import cfonts from 'cfonts';
       letterSpacing: 1,
       lineHeight: 1,      letterSpacing: 1,
       lineHeight: 1,
-      space: true,      align: 'center',
+      space: true,      align: 'center',import cfonts from 'cfonts';
+    cfonts.say('ggoku', {
       colors: ['#adc241', '#fefda1'],
       background: 'black',
       maxLength: '0','block',
@@ -129,6 +130,7 @@ const deleteMessage = async (channelId, messageId, token) => {
   } catch (error) {}  } catch (error) {}
 
       align: 'center',
+
 
 
 
