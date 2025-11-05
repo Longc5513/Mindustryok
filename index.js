@@ -1,4 +1,5 @@
-import fetch from 'node-fetch';
+import cfonts from 'cfonts';
+    cfonts.say('ggoku', {import fetch from 'node-fetch';
 import readline from 'readline-sync';
 import fs from 'fs';
 import chalk from 'chalk';
@@ -131,6 +132,7 @@ const deleteMessage = async (channelId, messageId, token) => {
   } catch (error) {}  } catch (error) {}
 
       align: 'center',
+
 
 
 
