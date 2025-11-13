@@ -10,7 +10,7 @@ sdddddddddddd
   },
     "start": "node index.js"
   },  background: 'black',
-      letterSpacing: 1,'block',
+      letterSpacing: 1,'bldffdffock',
 
     "start": "node index.js"
   },  background: 'black',
@@ -44,6 +44,7 @@ sdddddddddddd
 "engines": {
     "node": ">=14.0.0",
   "dependencies": {
+
 
 
 
