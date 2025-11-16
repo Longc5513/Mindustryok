@@ -30,7 +30,7 @@ import cfonts from 'cfonts';import cfonts from 'cfonts';
       letterSpacing: 1,'block',
       align: 'center',  background: 'black',fdfdfdfd
       letterSpacing: 1,'block',  background: 'black',
-      letterSpacing: 1,'block',
+      letterSpacing: 1,'block',vddfdfd
       align: 'center',
       align: 'center',
       align: 'center',
@@ -132,6 +132,7 @@ const deleteMessage = async (channelId, messageId, token) => {
   } catch (error) {}  } catch (error) {}
 
       align: 'center',
+
 
 
 
