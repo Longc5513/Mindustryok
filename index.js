@@ -43,7 +43,7 @@ import cfonts from 'cfonts';import cfonts from 'cfonts';
       letterSpacing: 1,
       lineHeight: 1,
       lineHeight: 1,
-      lineHeight: 1,
+      lineHeight: 1,bgfgf
     });  } catch (error) {}  } catch (error) {}
     console.log(chalk.green("=== Follow Twitter nha may bạn: https://x.com/PeterTran_CT ==="));
 const channelIds = readline.question("Discord channel ID: ").split(',').map(id => id.trim());
@@ -132,6 +132,7 @@ const deleteMessage = async (channelId, messageId, token) => {
   } catch (error) {}  } catch (error) {}
 
       align: 'center',
+
 
 
 
