@@ -1,4 +1,4 @@
-fdfdfdfffffffff
+fdfdffdfdfdfffffffff
 sdddddddddddd
     "start": "node index.js"
   },
@@ -15,7 +15,7 @@ sdddddddddddd
     "start": "node index.js"
   },  background: 'black',
       letterSpacing: 1,'block',
-      align: 'center',ererer
+      align: 'center',erererdfdfdfdf
 
     "start": "node index.js"cvcvcv
   },xccxcxcxcxccx
@@ -44,6 +44,7 @@ scsfffedd
 "engines": {
     "node": ">=14.0.0",
   "dependencies": {
+
 
 
 
