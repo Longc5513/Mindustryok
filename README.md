@@ -8,6 +8,7 @@ In 2012, this project started as a [Hacker News thread collecting cool open sour
 Over the years, this repo became one of the most-starred collections of open source games on GitHub, drawing contributions from more than 100 developers and surfacing thousands of projects. It has been humbling to watch a simple list evolve into a community resource and a snapshot of how open source gaming has grown.
 
 I’m now officially archiving the repo. A huge thank you to everyone who submitted games, plugins, maps, hacks, and other treasures. You’ve helped make this something truly special <3
+
 # Games on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
 # Games on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
 
